@@ -46,7 +46,7 @@ export default function Education() {
           </p>
 
           <p className="mb-6">
-            CGPA: 8.14
+            CGPA: 8.41
           </p>
 
           <p className="mb-6 leading-relaxed">
