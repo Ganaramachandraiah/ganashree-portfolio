@@ -67,7 +67,7 @@ export default function Home() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            GANASHREE C R
+            GANASHREE C.R
           </motion.h1>
 
           {/* Subtitle */}
