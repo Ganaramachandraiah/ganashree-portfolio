@@ -175,7 +175,7 @@ export default function Home() {
 
             {/* Gmail */}
             <motion.a
-              href="mailto:Ganashree334@gmail.com"
+              href="mailto:ganashree2504@gmail.com"
               whileHover={{ scale: 1.2, y: -8 }}
               transition={{ type: "spring", stiffness: 300 }}
               className="relative group"
